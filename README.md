@@ -1,2 +1,2 @@
 # student-list-redactor
-*imagune here some description*
+*imagine here some description*
